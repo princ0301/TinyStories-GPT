@@ -46,7 +46,7 @@ We use the [TinyStories](https://huggingface.co/datasets/roneneldan/TinyStories)
 ## 📈 Training vs Validation Loss
 
 <p align="center">
-  <img src="assets/loss_curve.png" alt="Loss Curve" width="500"/>
+  <img src="Screenshot 2025-07-09 010637.png" alt="Loss Curve" width="500"/>
 </p>
 
 - ✅ The model was evaluated every 500 steps.
@@ -59,7 +59,7 @@ We use the [TinyStories](https://huggingface.co/datasets/roneneldan/TinyStories)
 > **Prompt**: `"Once upon a time there was a pumpkin."`
 
 <p align="center">
-  <img src="assets/generated_story_output.png" alt="Generated Story Output" width="600"/>
+  <img src="Screenshot 2025-07-09 011914.png" alt="Generated Story Output" width="600"/>
 </p>
 
 📌 The model continues the story with coherent, simple language using only ~25M parameters.
