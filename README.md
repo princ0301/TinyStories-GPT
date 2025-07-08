@@ -62,7 +62,7 @@ We use the [TinyStories](https://huggingface.co/datasets/roneneldan/TinyStories)
   <img src="Screenshot 2025-07-09 011914.png" alt="Generated Story Output" width="600"/>
 </p>
 
-📌 The model continues the story with coherent, simple language using only ~25M parameters.
+📌 The model continues the story with coherent, simple language using only ~30M parameters.
 
 ---
 
